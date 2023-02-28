@@ -70,7 +70,7 @@ ESPECÍFICOS
 
 - Conectar el parlante de 8 ohm 2 watts al pin 5 del LM386. Asegurarse de que la polaridad del parlante esté orientada correctamente.
 
- Conectar la fuente de alimentación de 5v / 12v al pin 6 del LM386. Asegurarse de que la polaridad de la fuente de alimentación esté orientada correctamente.
+- Conectar la fuente de alimentación de 5v / 12v al pin 6 del LM386. Asegurarse de que la polaridad de la fuente de alimentación esté orientada correctamente.
 
 - Conectar el plug cable al pin 2 del LM386. Asegurarse de que la polaridad del plug cable esté orientada correctamente.
 
