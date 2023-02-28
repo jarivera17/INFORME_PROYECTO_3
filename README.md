@@ -62,6 +62,22 @@ ESPECÍFICOS
 
 ### Proceso 
 
+- Colocar el LM386 en la protoboard o placa de circuito impreso. Asegurarse de que esté orientado correctamente y de que los pines estén correctamente alineados.
+
+- Conectar el potenciómetro de 10k al pin 3 del LM386. Asegurarse de conectar los terminales del potenciómetro a tierra y a la fuente de alimentación, respectivamente.
+
+- Conectar el condensador de 220uF a 16v entre los pines 1 y 8 del LM386. Asegurarse de que la polaridad del condensador esté orientada correctamente.
+
+- Conectar el parlante de 8 ohm 2 watts al pin 5 del LM386. Asegurarse de que la polaridad del parlante esté orientada correctamente.
+
+ Conectar la fuente de alimentación de 5v / 12v al pin 6 del LM386. Asegurarse de que la polaridad de la fuente de alimentación esté orientada correctamente.
+
+- Conectar el plug cable al pin 2 del LM386. Asegurarse de que la polaridad del plug cable esté orientada correctamente.
+
+- Verificar cuidadosamente todas las conexiones realizadas, para asegurarse de que todo esté correctamente conectado.
+
+- Una vez que se haya verificado todas las conexiones, encender la alimentación y probar el amplificador.
+
 ### Imagenes 
 
 ![image](https://user-images.githubusercontent.com/117873786/221754358-16022794-3747-4558-99e5-d852d91f2c27.png)
