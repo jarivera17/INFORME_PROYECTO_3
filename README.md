@@ -38,6 +38,40 @@ ESPECÍFICOS
 
 ## PROCEDIMIENTO
 
+### Materiales:
+
+- Integrado LM386
+
+- Protoboard, o lo pueden armar soldando con cables
+
+- Un potenciometro de 10k
+
+- Varios cables
+
+- Batería desde 5v / 12v
+
+- Un plug cable
+
+- Un condensador de 220uF a 16v
+
+- Parlante de 8 ohm 2 watts
+
+### Diagrama 
+
+![image](https://user-images.githubusercontent.com/117873786/221751826-a9342cfa-056d-4038-b89e-040408b678b6.png)
+
+### Proceso 
+
+### Imagenes 
+
+![image](https://user-images.githubusercontent.com/117873786/221754358-16022794-3747-4558-99e5-d852d91f2c27.png)
+![WhatsApp Image 2023-02-27 at 11 30 59 PM](https://user-images.githubusercontent.com/117873786/221754640-e7ee8521-94ef-477c-b62b-0ea853d209db.jpeg)
+![WhatsApp Image 2023-02-27 at 11 30 58 PM (2)](https://user-images.githubusercontent.com/117873786/221754643-9cdf705e-59d9-4987-ba84-0f10649c14b4.jpeg)
+![WhatsApp Image 2023-02-27 at 11 30 58 PM (1)](https://user-images.githubusercontent.com/117873786/221754644-424c906c-45b5-4e54-a425-f338d82dd58e.jpeg)
+![WhatsApp Image 2023-02-27 at 11 30 58 PM](https://user-images.githubusercontent.com/117873786/221754645-ec030481-d29f-496e-a566-e2ce412af8f3.jpeg)
+![WhatsApp Image 2023-02-27 at 11 30 57 PM (1)](https://user-images.githubusercontent.com/117873786/221754647-5ab7ac98-64c6-4900-8d79-6b1a98b13c55.jpeg)
+![WhatsApp Image 2023-02-27 at 11 30 57 PM](https://user-images.githubusercontent.com/117873786/221754650-729ff9ab-0a57-4151-82ad-df521b4c0765.jpeg)
+
 
 
 ## CONCLUSIONES
