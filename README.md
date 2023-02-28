@@ -70,8 +70,7 @@ ESPECÍFICOS
 ![WhatsApp Image 2023-02-27 at 11 30 58 PM (1)](https://user-images.githubusercontent.com/117873786/221754644-424c906c-45b5-4e54-a425-f338d82dd58e.jpeg)
 ![WhatsApp Image 2023-02-27 at 11 30 58 PM](https://user-images.githubusercontent.com/117873786/221754645-ec030481-d29f-496e-a566-e2ce412af8f3.jpeg)
 ![WhatsApp Image 2023-02-27 at 11 30 57 PM (1)](https://user-images.githubusercontent.com/117873786/221754647-5ab7ac98-64c6-4900-8d79-6b1a98b13c55.jpeg)
-
-
+![image](https://user-images.githubusercontent.com/117873786/221755636-b2161a75-ae34-4da8-9cd7-b5b822f7ef49.png)
 
 ## CONCLUSIONES
 
