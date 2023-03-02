@@ -88,6 +88,10 @@ ESPECÍFICOS
 ![WhatsApp Image 2023-02-27 at 11 30 57 PM (1)](https://user-images.githubusercontent.com/117873786/221754647-5ab7ac98-64c6-4900-8d79-6b1a98b13c55.jpeg)
 ![image](https://user-images.githubusercontent.com/117873786/221755636-b2161a75-ae34-4da8-9cd7-b5b822f7ef49.png)
 
+## VIDEO 
+
+https://uespe-my.sharepoint.com/:v:/g/personal/jfsalazar12_espe_edu_ec/EeR_ymET98dDmX8jaVCzONcBRBB4dqwsgz2-03o4Bojpvg?e=yizh92
+
 ## CONCLUSIONES
 
 1. En conclusión, el objetivo de aplicar ingeniería inversa en la construcción de un mini amplificador de audio implica un análisis exhaustivo del circuito eléctrico y sus componentes, desde una perspectiva macro y micro. La finalidad es comprender no solo la estructura del circuito, sino también profundizar en el funcionamiento detallado de cada componente eléctrico, incluyendo su construcción y funcionalidad.
