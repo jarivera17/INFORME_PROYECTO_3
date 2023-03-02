@@ -18,7 +18,7 @@ Docente : Ing. Darwin Alulema
 
 GENERAL
 
-Aplicar ingeniería inversa con la contrucción de un mini amplificador de audio, analizando a fondo el circuito eléctrico y sus componentes desde una perspectiva macro y micro. El proyecto busca no solo comprender la estructura del circuito, sino también profundizar en el funcionamiento detallado de cada componente eléctrico, incluyendo su construcción y funcionalidad.
+Aplicar ingeniería inversa con la construcción de un mini amplificador de audio, analizando a fondo el circuito eléctrico y sus componentes desde una perspectiva macro y micro. El proyecto busca no solo comprender la estructura del circuito, sino también profundizar en el funcionamiento detallado de cada componente eléctrico, incluyendo su construcción y funcionalidad.
 
 ESPECÍFICOS
 
@@ -90,4 +90,10 @@ ESPECÍFICOS
 
 ## CONCLUSIONES
 
+1. En conclusión, el objetivo de aplicar ingeniería inversa en la construcción de un mini amplificador de audio implica un análisis exhaustivo del circuito eléctrico y sus componentes, desde una perspectiva macro y micro. La finalidad es comprender no solo la estructura del circuito, sino también profundizar en el funcionamiento detallado de cada componente eléctrico, incluyendo su construcción y funcionalidad.
 
+2. En mi opinión, el objetivo de estudiar y conocer en profundidad el circuito integrado LM386 implica llevar a cabo un análisis exhaustivo de sus partes y su funcionamiento. El propósito principal es entender la estructura interna del LM386 y cómo se relaciona con otros componentes eléctricos en un circuito, lo que permitirá profundizar en la comprensión de cómo opera.
+
+3. Personalmente, considero que este proyecto es de gran importancia para cualquier persona interesada en la electrónica y la amplificación de audio. Conocer en detalle el funcionamiento del LM386 es fundamental para diseñar circuitos de alta calidad y mejorar los diseños existentes. Además, el análisis detallado del LM386 permitirá identificar posibles errores o mejoras en el diseño de un circuito que lo utilice.
+
+4. En mi conclusión, puedo decir que el objetivo de analizar el proceso de producción de sonido en una bocina es fundamental para comprender su funcionamiento y cómo se produce el sonido que escuchamos. Al identificar los componentes clave y los factores que influyen en la calidad del sonido producido, podemos mejorar la fidelidad y claridad del sonido reproducido. Es importante destacar que el análisis del proceso de producción de sonido en una bocina es especialmente útil en aplicaciones de audio de alta calidad, como sistemas de sonido profesionales. Con una comprensión más profunda de cómo funciona la bocina y qué factores influyen en la calidad del sonido, podemos hacer mejoras significativas en la calidad del sonido reproducido.
